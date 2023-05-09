@@ -75,7 +75,7 @@ if (!empty($_POST['newTaskTitle'])) {
                     <label for="important">Important : </label>
                     <input type="checkbox" name="important" id="important">
                 </div>
-                <input type="submit" value="ADD">
+                <input class="addBtn" type="submit" value="ADD">
             </form>
         </div>
     </div>
